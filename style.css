@@ -1,0 +1,88 @@
+
+
+body{
+    background-image: linear-gradient(to top, rgb(218, 213, 213), rgb(19, 129, 38));
+    color: black;
+    text-align: center;
+   
+}
+#button{
+    text-align: center;
+
+}
+#butMacro{
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold
+
+}
+#butAmas{
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold
+}
+#butZer{
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold
+}
+section{
+    display:inline-block;
+    text-align: center;
+           
+}
+
+#fig1_1{
+    width: 30%;
+    height: 30%;
+    position: relative;
+    
+}
+#fig1_2{
+    width: 35%;
+    font-size:1rem;
+    padding-left: 32%;
+    font-family: Arial, Helvetica, sans-serif;
+     
+}
+  
+#fig2_1{
+    width: 30%;
+    height: 30%;
+    position: relative;
+    
+}
+#fig2_2{
+    width: 35%;
+    font-size:1rem;
+    padding-left: 32%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+@media screen and (max-width:550px){
+    #butMacro{
+        
+        text-align: center;
+        display: block;
+        margin-left: 28%;
+        width: 150px;
+       
+        
+    }
+
+    #butAmas{
+        text-align: center;
+        display: block;
+        margin-left: 28%;
+        width: 150px;
+    }
+
+    #butZer{
+        text-align: center;
+        display: block;
+        margin-left: 28%;
+        width: 150px;
+    }
+   
+    
+}
