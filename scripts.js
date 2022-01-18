@@ -7,14 +7,14 @@ function clicar1(){
     
     contadorMacro ++ 
     let but1 = window.document.querySelector('input#butMacro')
-    res1.innerHTML = `<p>O contador de Macrófago está com <mark>${contadorMacro}</mark>cliques</p>`
+    res1.innerHTML = `<p>O contador de Células está com <mark>${contadorMacro}</mark>cliques</p>`
 }
 
 function clicar2(){
     
     contadorAmas ++
     let but2 = window.document.querySelector('input#butAmas')    
-    res2.innerHTML = `<p>O contador de Amastigota está com <mark>${contadorAmas}</mark>cliques</p>`
+    res2.innerHTML = `<p>O contador de Parasitas está com <mark>${contadorAmas}</mark>cliques</p>`
 }
 
 function clicar3(){
