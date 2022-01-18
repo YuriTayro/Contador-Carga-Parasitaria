@@ -11,17 +11,23 @@ body{
 
 }
 #butMacro{
+    width: 150px;
+    height: 100px;
     padding: 10px;
     border-radius: 10px;
     font-weight: bold
 
 }
 #butAmas{
+    width: 150px;
+    height: 100px;
     padding: 10px;
     border-radius: 10px;
     font-weight: bold
 }
 #butZer{
+    width: 150px;
+    height: 100px;
     padding: 10px;
     border-radius: 10px;
     font-weight: bold
